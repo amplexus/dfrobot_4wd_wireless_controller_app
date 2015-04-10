@@ -1,5 +1,7 @@
 A Java Swing based app that communicates with an Arduino robot wirelessly via XBee.
 
+Companion Arduino app: https://github.com/amplexus/dfrobot_4wd_xbee_api_mode_sketch
+
 Hardware:
 * PC to run this Swing app
 * DFRobot Romeo Arduino compatible controller
